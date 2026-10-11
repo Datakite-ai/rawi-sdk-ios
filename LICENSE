@@ -1,0 +1,23 @@
+DataKite Proprietary SDK License
+
+Copyright (c) 2026 DataKite. All rights reserved.
+
+This software development kit (the "SDK"), including its binaries,
+documentation and samples, is licensed, not sold.
+
+1. Use of the SDK is permitted only to parties holding a valid written
+   agreement with DataKite ("DataKite"), and only within the scope and
+   term of that agreement.
+2. Without that agreement, no right is granted to use, copy, modify,
+   distribute, sublicense or integrate the SDK.
+3. You may not reverse engineer, decompile or disassemble the SDK,
+   except to the extent applicable law expressly permits it.
+4. The SDK is provided "AS IS", without warranty of any kind. DataKite
+   is not liable for any damages arising from its use, except as stated
+   in the written agreement.
+5. Third-party components included in the SDK remain under their own
+   licenses, listed in the accompanying notices file.
+6. This license is governed by the laws of the State of Delaware,
+   United States of America.
+
+Contact: info@datakite.ai
